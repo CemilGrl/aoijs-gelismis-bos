@@ -14,7 +14,7 @@ diyerek modülleri indirin. Eğer modülü indirirken hata vs alıyorsanız bilg
 ./src/handler/ayarlar.js ve ./src/handler/bot.js dosyalarını kendinize göre ayarlayarak doldurunuz.
 
 # Son olarak!
-**Tüm işlemler bittikten sonra sıra sıra botu çalıştırmaya geldi.**
+**Tüm işlemler bittikten sonra sıra botu çalıştırmaya geldi.**
 ```js
 node .
 ```
