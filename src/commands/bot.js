@@ -12,7 +12,7 @@ module.exports = [{
     type: "interaction",
     prototype: "modal",
     code: `
-    $interactionreply[$getvar[tick] Komut başarıyla çalıştırıldı.;;;;everyone;true]
+    $interactionreply[$getvar[tick] Komut başarıyla çalıştırıldı.;everyone;true]
 	$eval[$textinputvalue[kod]]
 `},{
     name: "bot",
@@ -21,7 +21,7 @@ module.exports = [{
     code: `
     $reboot[arsen.js]
     $wait[1s]
-    $interactionreply[$getvar[tick] Bot başarıyla resetlendi.;;;;everyone;true]
+    $interactionreply[$getvar[tick] Bot başarıyla resetlendi.;;everyone;true]
 	$onlyforids[$clientownerids;$nonescape[$getvar[cross]] <@$authorid>, Bu komut sadece Geliştiricime'e özeldir.{options:{ephemeral:true}}{extraOptions:{interaction:true}}]
     $onlyif[$interactiondata[options._subcommand]==reset;]
 `}]
