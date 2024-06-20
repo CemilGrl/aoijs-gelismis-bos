@@ -17,7 +17,9 @@ diyerek modülleri indirin. Eğer modülü indirirken hata vs alıyorsanız bilg
 **Tüm işlemler bittikten sonra sıra sıra botu çalıştırmaya geldi.**
 ```js
 node .
-``` veya ```js
+```
+veya
+```js
 node arsen.js
 ``` komutu ile botu başlatabilirsiniz. Herhangi sorun içinde issues kısmında issue açabilir yada discord @cemilgrl adresi ile bana ulaşabilirsiniz 💖
 
