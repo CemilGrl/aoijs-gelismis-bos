@@ -13,7 +13,7 @@ module.exports = [{
     prototype: "modal",
     code: `
     $interactionreply[$getvar[tick] Komut başarıyla çalıştırıldı.;everyone;true]
-	$eval[$textinputvalue[kod]]
+    $eval[$textinputvalue[kod]]
 `},{
     name: "bot",
     type: "interaction",
