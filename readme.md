@@ -21,6 +21,7 @@ node .
 veya
 ```js
 node arsen.js
-``` komutu ile botu başlatabilirsiniz. Herhangi sorun içinde issues kısmında issue açabilir yada discord @cemilgrl adresi ile bana ulaşabilirsiniz 💖
+```
+komutu ile botu başlatabilirsiniz. Herhangi sorun içinde issues kısmında issue açabilir yada discord @cemilgrl adresi ile bana ulaşabilirsiniz 💖
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/378974293507440640?animated=true)](https://discord.com/users/378974293507440640)
