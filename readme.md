@@ -4,7 +4,8 @@
 # Kurulum ve kullanım.
 **Öncellikle dosyaları git veya manuel yolla indirin.**
 
-# Dosyaları indirdikten sonra...```js
+# Dosyaları indirdikten sonra...
+```js
 npm install
 ```
 diyerek modülleri indirin. Eğer modülü indirirken hata vs alıyorsanız bilgisayarınıza Git yükleyiniz.
