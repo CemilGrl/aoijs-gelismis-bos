@@ -8,8 +8,7 @@
 ```js
 npm install
 ```
-diyerek modülleri indirin. Eğer modülü indirirken hata vs alıyorsanız bilgisayarınıza Git yükleyiniz.
-
+diyerek modülleri indirin.
 # Başlatmadan önce unutma!!
 ./src/handler/ayarlar.js ve ./src/handler/bot.js dosyalarını kendinize göre ayarlayarak doldurunuz.
 
